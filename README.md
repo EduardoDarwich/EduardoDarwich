@@ -12,7 +12,7 @@ Olá! Meu nome é Eduardo, sou estudante de Engenharia de Software e estou em bu
 
 ## Habilidades
 
-- **Linguagens:** Java, Python, C#, JavaScript  
+- **Linguagens:** Java, Python, C#  
 - **Web:** HTML, CSS, Node.js  
 - **Banco de Dados:** MySQL, PostgreSQL  
 - **Ferramentas:** Git, GitHub, VS Code  
@@ -28,8 +28,7 @@ Estou organizando meus projetos para apresentar aqui. Em breve você poderá ver
 
 ## Contato
 
-- **Email:** eduardo.darwich23@gmail.com  
-- **GitHub:** [github.com/seuusuario](https://github.com/seuusuario)  
+- **Email:** eduardo.darwich23@gmail.com   
 - **LinkedIn:** [linkedin.com/in/seuusuario](https://linkedin.com/in/seuusuario)  
 
 ---
