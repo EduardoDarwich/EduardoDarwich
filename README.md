@@ -18,13 +18,6 @@ Olá! Meu nome é Eduardo, sou engenheiro de Software e estou em busca da minha 
 
 ---
 
-## Projetos
-
-🚧 *Em construção!*  
-Estou organizando meus projetos para apresentar aqui. Em breve você poderá ver alguns dos sistemas e APIs que desenvolvi durante meus estudos.
-
----
-
 ## Contato
 
 - **Email:** eduardo.darwich23@gmail.com   
