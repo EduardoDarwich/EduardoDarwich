@@ -28,7 +28,7 @@ Estou organizando meus projetos para apresentar aqui. Em breve você poderá ver
 ## Contato
 
 - **Email:** eduardo.darwich23@gmail.com   
-- **LinkedIn:** [linkedin.com/in/seuusuario](www.linkedin.com/in/eduardo-darwich-89598b248)  
+- **LinkedIn:** [linkedin.com/in/eduardo-darwich](www.linkedin.com/in/eduardo-darwich-89598b248)  
 
 ---
 
